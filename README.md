@@ -73,8 +73,8 @@ This guide was created to help streamline the study process. With the increasing
 
 Do you need help? Find me at [ryleighnewman.com](https://ryleighnewman.com)
 
-## Copyright Disclaimer: 
+## Copyright Disclaimer
 
-Content owners may not want their work to be uploaded to AI tools. 
+Content owners may not want their works to be uploaded to AI tools. 
 
 I am not responsible for any copyright infringement. Consult authors for permission.
