@@ -25,10 +25,14 @@ This has personally saved me hundreds of hours of valuable study time.
 I am working on converting textbook content into Anki flashcards. I will provide you with screenshots. For each screenshot, extract the relevant information into one basic table format, with questions on the left and answers on the right. For each new prompt, you will make a new table, not updating the existing table. If any images are required in the answers, place an "X" as a placeholder. If additional information is needed (like definitions or advanced concepts that are not fully covered), include those as well, either in the original flashcard or as an additional new flash card. The output should be in a format that I can directly copy and paste into Microsoft Excel, with no fancy formatting or indentations. Remember this. Once all the information is extracted, I will manually paste it into Excel, save it as a .CSV file, and import it into Anki as a deck. Remember these instructions. Do not hallucinate.
 ```
 
+![Screenshot 1](images/1.png)
+
 ### Step 2: Gather Screenshots, Send to ChatGPT
 - Begin by taking screenshots of the textbook pages. You can include the entire page, no need to crop it.
 - I find it easier to do one at a time. So take a screenshot, drag it into ChatGPT, have it make the table... repeat.
   
+![Screenshot 2](images/2.png)
+
 - **IMPORTANT: ChatGPT cannot yet handle entire PDFs. It is best to do individual page screenshots. It will hallucinate and leave out information.**
 
 ### Step 3: Paste Content in Microsoft Excel
@@ -36,7 +40,12 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Manually copy and paste the table from ChatGPT into Excel.
 - Ensure that the questions and answers are aligned properly in ONLY two columns, with questions on the left and answers on the right.
 - Repeat the process one screenshot at a time until you're finished with all the pages.
+
+![Screenshot 3](images/3.png)
+
 - Save the Excel file as a `.CSV` file, which is compatible with Anki.
+
+![Screenshot 4](images/4.png)
 
 ### Step 4: Import the .CSV File into Anki
 - Open Anki and select the option to import a file.
@@ -44,8 +53,10 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Import the content into Anki, make sure to select the right deck. Also, select "Comma" as the field separator.
 - Anki will automatically create flashcards based on the data from the `.CSV` file.
 
+![Screenshot 5](images/5.png)
+
 ### Step 5: Review and Enhance Flashcards in Anki
-- Once the flashcards are imported into Anki, go through each card while referencing the  textbook.
+- Once the flashcards are imported into Anki, go through each card while referencing the textbook.
 - Add any additional formatting or details that may be necessary for better understanding.
 - This part purposely not automated because this part is where you get to learn the content!
 
