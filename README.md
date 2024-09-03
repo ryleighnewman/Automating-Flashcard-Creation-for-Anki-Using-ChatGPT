@@ -26,13 +26,12 @@ I am working on converting textbook content into Anki flashcards. I will provide
 ```
 
 ![Screenshot 1](images/1.png)
-
 ### Step 2: Gather Screenshots, Send to ChatGPT
 - Begin by taking screenshots of the textbook pages. You can include the entire page, no need to crop it.
 - I find it easier to do one at a time. So take a screenshot, drag it into ChatGPT, have it make the table... repeat.
   
 ![Screenshot 2](images/2.png)
-
+- This is the response after hitting 'send,' sending a single page from an organic chemistry textbook.
 - **IMPORTANT: ChatGPT cannot yet handle entire PDFs. It is best to do individual page screenshots. It will hallucinate and leave out information.**
 
 ### Step 3: Paste Content in Microsoft Excel
@@ -42,11 +41,9 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Repeat the process one screenshot at a time until you're finished with all the pages.
 
 ![Screenshot 3](images/3.png)
-
 - Save the Excel file as a `.CSV` file, which is compatible with Anki.
 
 ![Screenshot 4](images/4.png)
-
 ### Step 4: Import the .CSV File into Anki
 - Open Anki and select the option to import a file.
 - Choose the `.CSV` file you saved.
@@ -54,7 +51,6 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Anki will automatically create flashcards based on the data from the `.CSV` file.
 
 ![Screenshot 5](images/5.png)
-
 ### Step 5: Review and Enhance Flashcards in Anki
 - Once the flashcards are imported into Anki, go through each card while referencing the textbook.
 - Add any additional formatting or details that may be necessary for better understanding.
