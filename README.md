@@ -69,6 +69,6 @@ I am working on converting textbook content into Anki flashcards. I will provide
 
 ## Conclusion
 
-This guide was created by an undergraduate student to help peers streamline their study process using free tools and resources. With the increasing costs and restrictions associated with paid tools, this method offers a viable alternative that leverages the power of AI, making it accessible to everyone with the necessary prerequisites. Monthly subscription? Nah. Happy studying!
+This guide was created to help streamline the study process. With the increasing costs and restrictions associated with paid tools, this method offers a viable alternative that leverages the power of AI with user control. Monthly subscription? Nah... Well except for a ChatGPT. I do think that is worth it though. Happy studying!
 
 Do you need help? Find me at [ryleighnewman.com](https://ryleighnewman.com)
