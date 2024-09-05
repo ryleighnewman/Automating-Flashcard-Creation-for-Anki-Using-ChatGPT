@@ -62,10 +62,10 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Add any additional formatting, explanations, or details that may be necessary for better understanding.
 - **This part purposely not automated because it is where you get to learn and interact with the content!**
 
-- Before Formatting (below)
+- **Before Formatting (below)**
 ![Screenshot 6](images/6.png)
 
-- After Formatting (below)
+- **After Formatting (below)**
 ![Screenshot 7](images/7.png)
 
 ### Final Notes
