@@ -18,7 +18,7 @@ This has personally saved me hundreds of hours of valuable study time!
 ## Process Overview
 
 ### Step 1: Prime ChatGPT
-- Use the following advanced prompt to ChatGPT it how to extract information. You can edit this to your unique needs.
+- Use the following Advanced Prompt to ChatGPT it how to extract information. You can edit this to your unique needs.
 
 #### Advanced Prompt
 ```
@@ -72,6 +72,17 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - After importing the flashcards into Anki, always review them in detail to ensure they meet your study needs. Adjust and enhance the flashcards as needed to reinforce your learning and comprehension.
 - If your textbook has exercise questions (for example), you can have ChatGPT backtrace older images you uploaded, and make a table with just these exercises.
 - if there is something unique you want to do, I recommend changing the prompts or making your own and giving it a go! AI is very capable.
+- ChatGPT has issues... see below.
+
+## Is ChatGPT giving you problems?
+The AI can freak out in special scenarios. Below are the most common examples and what to do.
+- **Slow Output:** close the website and reopen it (yes this actually can work).
+- **Internal Server Error:** oftentimes just a ChatGPT bug. Refresh your page.
+- **Won't Make a Proper Table:** the system is overloaded. Create a new chat, and tell it to clear memory. Then resume making cards, make sure to re-enter the Advanced Prompt.
+- **Other Errors:** ChatGPT often becomes overwhelmed when a chat becomes too long, meaning there are many messages in one thread. Follow the previous bullet point steps to clear memory. Simply tell it:
+```
+Clear all memory.
+```
 
 ## Conclusion
 
