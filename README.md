@@ -74,11 +74,11 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - if there is something unique you want to do, I recommend changing the prompts or making your own and giving it a go! AI is very capable.
 - ChatGPT has issues... see below.
 
-## Is ChatGPT giving you problems?
+## Is ChatGPT Giving You Problems?
 The AI can freak out in special scenarios. Below are the most common examples and what to do.
 - **Slow Output:** close the website and reopen it (yes this actually can work).
 - **Internal Server Error:** oftentimes just a ChatGPT bug. Refresh your page.
-- **Won't Make a Proper Table:** the system is overloaded. Create a new chat, and tell it to clear memory. Then resume making cards, make sure to re-enter the Advanced Prompt.
+- **Won't Make a Proper Table:** the system is overloaded. Create a new chat, and tell it to clear memory. Then resume; re-enter the Advanced Prompt.
 - **Other Errors:** ChatGPT often becomes overwhelmed when a chat becomes too long, meaning there are many messages in one thread. Follow the previous bullet point steps to clear memory. Simply tell it:
 ```
 Clear all memory.
