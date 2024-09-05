@@ -18,7 +18,7 @@ This has personally saved me hundreds of hours of valuable study time!
 ## Process Overview
 
 ### Step 1: Prime ChatGPT
-- Use the following Advanced Prompt to ChatGPT it how to extract information. You can edit this to your unique needs.
+- Use the following Advanced Prompt to tell ChatGPT how to extract information. You can edit this to your unique needs.
 
 #### Advanced Prompt
 ```
