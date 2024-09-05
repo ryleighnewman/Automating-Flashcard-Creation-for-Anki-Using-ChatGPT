@@ -62,10 +62,11 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Add any additional formatting, explanations, or details that may be necessary for better understanding.
 - **This part purposely not automated because it is where you get to learn and interact with the content!**
 
+- Before Formatting (below)
 ![Screenshot 6](images/6.png)
-- Before Formatting (above)
+
+- After Formatting (below)
 ![Screenshot 7](images/7.png)
-- After Formatting (bottom)
 
 ### Final Notes
 - After importing the flashcards into Anki, always review them in detail to ensure they meet your study needs. Adjust and enhance the flashcards as needed to reinforce your learning and comprehension.
