@@ -76,9 +76,9 @@ I am working on converting textbook content into Anki flashcards. I will provide
 
 ## Is ChatGPT Giving You Problems?
 The AI can freak out in special scenarios. Below are the most common examples and what to do.
-- **Slow Output:** close the website and reopen it (yes this actually can work).
-- **Internal Server Error:** oftentimes just a ChatGPT bug. Refresh your page.
-- **Won't Make a Proper Table:** the system is overloaded. Create a new chat, and tell it to clear memory. Then resume; re-enter the Advanced Prompt.
+- **Slow Output:** Close the website and reopen it (yes this actually can work).
+- **Internal Server Error:** Oftentimes just a ChatGPT bug. Refresh your page.
+- **Won't Make a Proper Table:** The system is overloaded. Create a new chat, and tell it to clear memory. Then resume; re-enter the Advanced Prompt.
 - **Other Errors:** ChatGPT often becomes overwhelmed when a chat becomes too long, meaning there are many messages in one thread. Follow the previous bullet point steps to clear memory. Simply tell it:
 ```
 Clear all memory.
