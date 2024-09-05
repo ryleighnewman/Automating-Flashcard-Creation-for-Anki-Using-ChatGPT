@@ -7,6 +7,8 @@ This guide provides a step-by-step process for converting your textbook content 
 
 The goal is to make flashcards for free quickly, bypassing the limitations and costs of paid tools.
 
+By dissecting valuable information and breaking it into cards, this process saves time and organizes content for study.
+
 This has personally saved me hundreds of hours of valuable study time!
 
 ## Prerequisites
