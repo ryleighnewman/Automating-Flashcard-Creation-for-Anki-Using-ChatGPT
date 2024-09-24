@@ -28,6 +28,9 @@ I am working on converting textbook content into Anki flashcards. I will provide
 ```
 
 ![Screenshot 1](images/1.png)
+
+- The prompt has been updated since the above image was taken.
+
 ### Step 2: Gather Screenshots, Send to ChatGPT
 - Take screenshots of all your textbook pages. You can include the entire page, no need to crop it for formatting purposes. Unnecessary info will be omitted automatically.
 - Upload and send one page at a time.
