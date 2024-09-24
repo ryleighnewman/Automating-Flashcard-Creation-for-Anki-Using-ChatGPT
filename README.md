@@ -34,7 +34,11 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - **IMPORTANT: ChatGPT cannot handle entire PDFs. It is best to do individual page screenshots, or a word count equivalent (500 max). Otherwise it may hallucinate and/or leave out information.**
   
 ![Screenshot 2](images/2.png)
-- The above inage is the response after hitting 'send,' sending a single page screenshot of an organic chemistry textbook. The output can either be a visual table, or plain text. Either should work.
+- The above image is the response after hitting 'send,' sending a single page screenshot of an organic chemistry textbook. The output can either be a visual table, or plain text. Either should work.
+
+![Screenshot 2](images/8.png)
+- Pictured above: paid subscription version output (lastest build: sept. 2024). Much easier to copy and paste.
+
 
 ### Step 3: Paste Content in Microsoft Excel
 
