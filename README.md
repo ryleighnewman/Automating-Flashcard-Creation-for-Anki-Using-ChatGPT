@@ -103,6 +103,8 @@ Clear all memory.
 
 This guide was created to help streamline my study process. This method is an alternative to (painstakingly limited and expensive) paid tools. 
 
+Anki is such a powerful studying tool, and AI only makes it easier to work with.
+
 Monthly subscription? Nah... Well except for optional ChatGPT Plus... I do think that is worth it though. Happy studying!
 
 Do you need help? Find me at [ryleighnewman.com](https://ryleighnewman.com)
