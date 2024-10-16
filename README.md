@@ -32,17 +32,18 @@ This has personally saved me hundreds of hours of valuable study time! And helpe
 I am working on converting textbook content into Anki flashcards. I will provide you with screenshots. For each screenshot, extract the relevant information into one basic table format, with questions on the left and answers on the right. For each new prompt, you will make a new table, not updating the existing table. If any images are required in the answers, place an "X" as a placeholder. If additional information or context is needed (like definitions or individual explanation advanced concepts not yet covered), include those as well, either in the original flashcard or as an additional new flash card (which would be placed before the corresponding flash card). The output should be in a format that I can directly copy and paste into Microsoft Excel, with no fancy formatting or indentations. No indented lists. You can make lists, but they cannot have indentations. I do not want a header, so for example at the top of the table, do not put "question" and "answer." Remember this. When outputting, make sure to divide the front and the back of the flash card by using tab, for Microsoft Excel recognition. You can use Latex. Once all the information is extracted, I will manually paste it into Excel, save it as a .CSV file, and import it into Anki as a deck. Remember these instructions. This prompt applies to the entire conversation. Fact check, revise if needed. Do not hallucinate. No dialogue.
 ```
 
-![Screenshot 1](images/1.png)
+- The prompt may have been been updated since the image below was taken.
 
-- The prompt has been updated since the above image was taken.
+![Screenshot 1](images/1.png)
 
 ### Step 2: Gather Screenshots, Send to ChatGPT
 - Take screenshots of all your textbook pages. You can include the entire page, no need to crop it perfectly for formatting purposes. Unnecessary info will be omitted automatically. Just make sure it is legible.
 - Upload and send one page at a time.
 - **IMPORTANT: ChatGPT cannot reliably handle entire PDFs. It is best to do individual page screenshots. Alternatively, you can paste text, but any diagrams will not be accounted for. Otherwise it may hallucinate and/or leave out information.**
+- 
+- The image below is the response after hitting 'send,' sending a single page screenshot of an organic chemistry textbook. The output can either be a visual table, or plain text. Either should work.
   
 ![Screenshot 2](images/2.png)
-- The above image is the response after hitting 'send,' sending a single page screenshot of an organic chemistry textbook. The output can either be a visual table, or plain text. Either should work.
 
 ### Step 3: Paste Content in Microsoft Excel
 
@@ -51,10 +52,12 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Ensure that the questions and answers are aligned properly in **ONLY** two columns, with questions on the left and answers on the right.
 - Repeat the process one screenshot at a time until you're finished with all the pages. You can merge all of your flashcards into one big file.
 - You can have ChatGPT merge all the flashcards into one big table/box in the end for ease of copying, but you may find numerous formatting errors. Formatting errors will break flashcards.
+- 
+- It should look like:
 
 ![Screenshot 3](images/3.png)
 
-- Save the file as a `.CSV`, which is compatible with Anki. Only use this file type.
+- Now, save the file as a `.CSV`, which is compatible with Anki. Only use this file type.
 
 ![Screenshot 4](images/4.png)
 
