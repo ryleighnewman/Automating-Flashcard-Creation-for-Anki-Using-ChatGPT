@@ -13,7 +13,7 @@ It does not do all of the work though. It's more of a outline tool, purposely.
 
 This process saves time and organizes content for study. So you can dive right into structured learning.
 
-This has personally saved me hundreds of hours of valuable study time! And helped me get 100%s on organic chemistry exams.
+This has personally saved me hundreds of hours of valuable study time! And helped me get 100s on organic chemistry exams.
 
 ## Prerequisites
 
