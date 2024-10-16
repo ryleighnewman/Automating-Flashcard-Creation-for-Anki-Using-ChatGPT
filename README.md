@@ -7,7 +7,7 @@ This guide provides a step-by-step process for converting textbook content into 
 
 The goal is to make flashcards quickly, bypassing the limitations and costs of paid tools.
 
-The AI dissects valuable information and breaks it chronologically into cards, breaking content into sections and asking questions.
+The AI dissects valuable information and organizes it into cards by breaking down content into sections and asking relevant questions.
 
 It does not do all of the work though. It's more of a outline tool, purposely.
 
@@ -17,7 +17,7 @@ This method has saved me hundreds of hours of valuable study time. And I have sc
 
 ## Prerequisites
 
-1. **ChatGPT**: It is *recommended* to have paid subscription version for the ability to upload many images (and to handle more complex tasks).
+1. **ChatGPT**: It is *recommended* to have the paid subscription version for the ability to upload multiple images and handle more complex tasks.
 2. **Microsoft Excel**: For pasting and saving as `.CSV`.
 3. **Anki**: The official version only. Application form recommended.
 
@@ -39,7 +39,7 @@ I am working on converting textbook content into Anki flashcards. I will provide
 ### Step 2: Gather Screenshots, Send to ChatGPT
 - Take screenshots of all your textbook pages. You can include the entire page, no need to crop it perfectly for formatting purposes. Unnecessary info will be omitted automatically. Just make sure it is legible.
 - Upload and send one page at a time.
-- **IMPORTANT: ChatGPT cannot reliably handle entire PDFs. It is best to do individual page screenshots. Alternatively, you can paste text, but any diagrams will not be accounted for. Otherwise it may hallucinate and/or leave out information.**
+- **IMPORTANT: ChatGPT cannot reliably handle entire PDFs. It is best to do individual page screenshots. Alternatively, you can paste text, but diagrams will not be accounted for. Otherwise it may hallucinate and/or leave out information.**
 - The image below is the response after hitting 'send,' sending a single page screenshot of an organic chemistry textbook. The output can either be a visual table, or plain text. Either should work.
   
 ![Screenshot 2](images/2.png)
@@ -70,7 +70,7 @@ I am working on converting textbook content into Anki flashcards. I will provide
 
 ### Step 5: Review and Enhance Flashcards in Anki
 - Once the flashcards are imported into Anki, I recommend going through each card while simultaneously referencing your textbook.
-- There shouldn't be many errors, if anything small formatting or number misunderstandings. Be cautious of this.
+- There shouldn't be many errors—if anything, only minor formatting or numerical misunderstandings.
 - Add any additional formatting, explanations, or details that may be necessary for better understanding.
 - **This part purposely not automated because it is where you get to learn and interact with the content!**
 
