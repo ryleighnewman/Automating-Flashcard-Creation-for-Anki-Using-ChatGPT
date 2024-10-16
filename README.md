@@ -40,7 +40,6 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Take screenshots of all your textbook pages. You can include the entire page, no need to crop it perfectly for formatting purposes. Unnecessary info will be omitted automatically. Just make sure it is legible.
 - Upload and send one page at a time.
 - **IMPORTANT: ChatGPT cannot reliably handle entire PDFs. It is best to do individual page screenshots. Alternatively, you can paste text, but any diagrams will not be accounted for. Otherwise it may hallucinate and/or leave out information.**
-- 
 - The image below is the response after hitting 'send,' sending a single page screenshot of an organic chemistry textbook. The output can either be a visual table, or plain text. Either should work.
   
 ![Screenshot 2](images/2.png)
@@ -52,7 +51,6 @@ I am working on converting textbook content into Anki flashcards. I will provide
 - Ensure that the questions and answers are aligned properly in **ONLY** two columns, with questions on the left and answers on the right.
 - Repeat the process one screenshot at a time until you're finished with all the pages. You can merge all of your flashcards into one big file.
 - You can have ChatGPT merge all the flashcards into one big table/box in the end for ease of copying, but you may find numerous formatting errors. Formatting errors will break flashcards.
-- 
 - It should look like:
 
 ![Screenshot 3](images/3.png)
