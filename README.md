@@ -25,7 +25,7 @@ This has personally saved me hundreds of hours of valuable study time! And helpe
 
 ### Step 1: Prime ChatGPT
 - Use the following Advanced Prompt to tell ChatGPT how to extract information. You can edit this to your unique needs. 
-- I have designed this prompt specifically to handle all of the common errors and possible problems unique to ChatGPT.
+- I have designed this prompt specifically to handle all of the common errors and possible problems unique to ChatGPT. Updated for the early October 2024 ChatGPT 4o build.
 
 #### Advanced Prompt
 ```
