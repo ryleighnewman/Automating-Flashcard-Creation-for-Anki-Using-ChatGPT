@@ -7,13 +7,11 @@ This guide provides a step-by-step process for converting textbook content into 
 
 The goal is to make flashcards quickly, bypassing the limitations and costs of paid tools.
 
-The AI dissects valuable information and organizes it into cards by breaking down content into sections and asking relevant questions.
-
-It does not do all of the work though. It's more of a outline tool, purposely.
+The AI dissects valuable information and organizes it into cards by breaking down content into sections and asking relevant questions. It doesn't do all of the work though. It's more of a outline tool, purposely.
 
 This process saves time and organizes content for study. So you can dive right into structured learning.
 
-This method has saved me hundreds of hours of valuable study time. And I have scored 100s on organic chemistry exams solely with this approach!
+This method has saved me hundreds of hours of valuable study time. I have scored 100s on organic chemistry exams, solely with this approach!
 
 ## Prerequisites
 
